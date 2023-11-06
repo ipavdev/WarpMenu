@@ -1,0 +1,9 @@
+name: Warp
+author: ipav
+version: '1.0.0'
+main: org.ipav.warp.Main
+api-version: '1.20'
+commands:
+  warp:
+    usage: "Usage: /<command>"
+    description: Warp to important locations!
